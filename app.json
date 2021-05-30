@@ -1,0 +1,12 @@
+{
+  "name": "share-places",
+  "displayName": "share-places",
+  "expo": {
+    "name": "share-places",
+    "slug": "share-places",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
