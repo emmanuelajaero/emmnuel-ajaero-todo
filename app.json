@@ -1,0 +1,12 @@
+{
+  "name": "ea-todo",
+  "displayName": "ea-todo",
+  "expo": {
+    "name": "ea-todo",
+    "slug": "ea-todo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
